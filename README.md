@@ -26,7 +26,7 @@
    4、新建一个课程文件来储存课程的信息，用户选择课程，然后再从文件中提取正确的内容，写到新建的另一个文件中。
    5、开课操作是将将用户所输入的信息储存到文件中。
 四、流程图
-
+![text](https://github.com/Echo334/Java.program/blob/master/Java%E5%AE%9E%E9%AA%8C5%E6%B5%81%E7%A8%8B%E5%9B%BE.png);
 五、核心代码注释
 JLabel label1;JLabel label2;JLabel label3;JLabel label4,label5;JLabel label6;
                	JLabel label7;JLabel label8;JLabel label9;JLabel label10,label11;JLabel label12;JLabel label13;//定义标签
