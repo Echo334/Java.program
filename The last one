@@ -120,7 +120,7 @@ JLabel label1;JLabel label2;JLabel label3;JLabel label4,label5;JLabel label6;
                	}
 }
 六系统运行截图
-![image text](https://github.com/Echo334/Java.program/blob/master/%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6.png)
-![image](https://github.com/Echo334/Java.program/blob/master/93d9e69429157901da7892d0932b846.png)
+![text](https://github.com/Echo334/Java.program/blob/master/%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6.png);
+![text](https://github.com/Echo334/Java.program/blob/master/93d9e69429157901da7892d0932b846.png);
 七、编程感
 这次编程，是对前几次实验的总结，同时也加入了文件流，实现文件的读写操作。对我而言，深入了解监听器的用法以及容器的作用和各个组件的用法。其实，各种编程方法不尽相同，却又有几分关联，这个过程锻炼的是编程思维，方法只是工具
